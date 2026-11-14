@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Desenvolvo **produtos escaláveis**, plataformas **SaaS** e **sistemas web de alto desempenho**.
 Tenho um foco profundo em **arquitetura**, **performance**, **código limpo** e **soluções voltadas para o negócio**.
 
-Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de software**, **impressões 3D** e **empreendedorismo tecnológico**.
+Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de software**, **impressão 3D** e **empreendedorismo tecnológico**.
 
 ---
 
