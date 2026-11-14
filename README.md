@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Desenvolvedor Junior | HTML, JavaScript & CSS**  
 🇧🇷 Brazil
 
 Desenvolvo **produtos escaláveis**, plataformas **SaaS** e **sistemas web de alto desempenho**.
