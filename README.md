@@ -68,14 +68,6 @@ Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de sof
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Philosophy
 
